@@ -1,0 +1,9 @@
+{
+  "name": "alexa-brown-noise-skill",
+  "version": "1.0.0",
+  "description": "Alexa skill that loops brown noise",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.11.0"
+  }
+}

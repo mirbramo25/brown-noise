@@ -1,0 +1,23 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "noise",
+      "intents": [
+        {
+          "name": "PlayNoiseIntent",
+          "samples": [
+            "start noise",
+            "play noise",
+            "play brown noise",
+            "loop noise"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  }
+}
